@@ -57,6 +57,8 @@ body {
 /* Tested only in latest version of Chrome, Firefox, Edge, and IE as of July 2018. I first created this pen in July 2014. */
 .social {
   background-color: grey;
+  list-type: none;
+  display: inline-block;
 }
 
 .social * {
