@@ -66,20 +66,11 @@ body {
   margin-bottom: 100px;
   text-allign: center;
 }
-.steam {
-  order: 3;
-}
-.youtube {
-  order: 1;
-}
 
-.twitch {
-  order: 2;
-}
 
-.reddit {
-  order: 4;
-}
+
+
+
 
 .buttons a {
   background-color: #04AA6D;
