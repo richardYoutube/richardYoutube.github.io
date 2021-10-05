@@ -58,7 +58,7 @@ body {
 .social {
   background-color: grey;
   list-type: none;
-  display: inline-block;
+  text-style: none;
 }
 
 .social * {
